@@ -1,1 +1,1 @@
-Im age preloade for js (canvas) game development
+Image preloade for js (canvas) game development
